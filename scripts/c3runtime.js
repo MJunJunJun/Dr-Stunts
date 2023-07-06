@@ -4190,6 +4190,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.SetWidth,
 		C3.Plugins.Sprite.Exps.Width,
 		C3.Plugins.Mouse.Cnds.OnObjectClicked,
+		C3.Plugins.Touch.Cnds.IsTouchingObject,
 		C3.Plugins.Browser.Acts.Close,
 		C3.Plugins.System.Cnds.IsGroupActive,
 		C3.Plugins.System.Cnds.PickRandom,
