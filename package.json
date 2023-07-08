@@ -1,7 +1,0 @@
-{
-	"name": "Dr Stunts",
-	"private": true,
-	"dependencies": {
-		"cordova-android": "11.0.0"
-	}
-}
